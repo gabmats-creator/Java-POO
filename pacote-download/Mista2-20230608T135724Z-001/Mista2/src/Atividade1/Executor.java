@@ -1,7 +1,5 @@
 package Atividade1;
 
-import java.util.ArrayList;
-
 public class Executor {
     public static void main(String[] args) {
         Cachorro cachorro1 = new Cachorro("Quadrúpede", "Doméstico", "Macho", "Bulldog", "Grande");
